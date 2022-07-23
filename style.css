@@ -1,0 +1,129 @@
+.container{
+ max-width: 100%;
+ 
+  }
+ul{
+  
+  display: flex;
+  
+  align-content: right;
+}
+ul li{
+  list-style: none;
+  margin-left: 70px;
+  margin-top: 5px;
+  font-size: 14px;
+  
+}
+ul li a{
+    
+  text-decoration: none;
+  color: black;
+  text-align: right;
+}
+.btn{
+  
+    height: 30px;
+    width: 130px;
+    color: #fff;
+    background-color: orangered;
+    
+    border: 1px solid coral;
+
+}
+
+.firstbtn{
+    color: #fff;
+    background-color: orangered;
+    border: none;
+    width: 120px;
+    height: 30px;
+}
+#secondbtn{
+    color: #fff;
+    background-color: black;
+    border: none; 
+    width: 120px;
+    height: 30px;
+}
+.concept{
+  text-align: center;}
+
+.card-img-top{
+  height: 100px;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ .card-title{
+  text-align: center;
+  color: orangered;
+ }
+ .card-text{
+  text-align: center;
+ }
+ #midlebtn{
+  
+  text-align: center;
+ }
+ #thirdbtn{
+    
+    color: #fff;
+    background-color: black;
+    border: none; 
+    width: 120px;
+    height: 30px;
+    
+ }
+ .buybtn{
+  color: #fff;
+    background-color: black;
+    border: none; 
+    width: 120px;
+    height: 30px;
+ }
+ #client{
+  text-align: center;
+ }
+ .input{
+  border:none ;
+ }
+ .sendbtn{
+  color: #fff;
+  background-color: orangered;
+  border: none;
+  width: 100px;
+  height: 30px;
+  margin:0px ;
+}
+ .inputtype{
+  border: none;
+  border-bottom: 1px solid;
+  
+  margin-right: 0px;
+  padding-left: 0%;
+ }
+ .input{
+  text-align: left;
+ }
+ .row-last{
+  display: flex;
+  float: left;
+  margin: auto;
+  
+ }
+ #lastp{
+  display: flex;
+  margin-left: 10px;
+  text-align: center;
+  
+ }
+ #logo{
+  display: flex;
+  padding: 2px;
+ }
+ #copy{
+  text-decoration: none;
+  color: black;
+ }
